@@ -8,6 +8,14 @@
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
+
+[![LikedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kau%C3%A3-chaves-793441247/)
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](maito:kaua.sampaio.dev@gmail.com)
+
+![Kauã GitHub stats](https://github-readme-stats.vercel.app/api?username=Kauasampaio96&show_icons=true&theme=radical)
+
+
 <!--
 **Kauasampaio96/Kauasampaio96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
