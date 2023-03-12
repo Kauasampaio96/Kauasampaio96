@@ -19,7 +19,7 @@
 ## 🚀 Technologies / Tecnologias
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,django,git,github,bootstrap,figma,vscode"></img>
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,bootstrap,figma,vscode"></img>
 </div>
   
 <br>
