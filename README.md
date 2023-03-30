@@ -9,7 +9,7 @@
 </p>
  
 - 📚 Cursando Análise e Desenvolvimento de Sistemas na Univeridade Norte do Paraná
-- 👨‍💻 Atualmente aprimorando meus conhecimentos em <strong>Javascript (React.js e Node.js)</strong> com foco em construir aplicações Web completas
+- 👨‍💻 Atualmente aprimorando meus conhecimentos em <strong>Desenvolvimento Web</strong>, entretanto, estou disposto a qualquer desafio 💪
 - 📫 Meu email: kaua.sampaio.dev@gmail.com
 - 📞 Meu Whatsapp: <a href="https://wa.me/5588996009602">(88) 9 99600-9602</a>
 - 🌐 Meu portfólio: <a href="https://kauachaves-portfolio.netlify.app">Acesse</a>
