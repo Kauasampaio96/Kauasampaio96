@@ -4,25 +4,14 @@
 
 <p>
   <em>
-    My name is Kauã Chaves, <strong>I'm a developer</strong>
+    My name is Kauã Chaves, <strong>I'm a data analyst</strong>
   </em>
 </p>
  
 - 📚 Cursando Análise e Desenvolvimento de Sistemas na Univeridade Norte do Paraná
-- 👨‍💻 Atualmente aprimorando meus conhecimentos em <strong>Desenvolvimento Web</strong>, entretanto, estou disposto a qualquer desafio 💪
 - 📫 Meu email: kaua.sampaio.dev@gmail.com
 - 📞 Meu Whatsapp: <a href="https://wa.me/5588996009602">(88) 9 99600-9602</a>
-- 🌐 Meu portfólio: <a href="https://kauachaves-portfolio.netlify.app">Acesse</a>
-
-<br>
-
-## 🚀 Technologies / Tecnologias
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,bootstrap,figma,vscode"></img>
-</div>
-  
-<br>
+- 🌐 Meu portfólio: <a href="https://kauachaves.framer.website">Acesse</a>
 
 ## 📈 Statistics / Estatísticas
 
@@ -35,7 +24,7 @@
 
 <div align="left">
   <p>
-<a href="https://www.linkedin.com/in/kauã-chaves"> 
+<a href="https://www.linkedin.com/in/kauachaves/"> 
 	<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 <a href="mailto:kaua.sampaio.dev@gmail.com"> 
 	<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
